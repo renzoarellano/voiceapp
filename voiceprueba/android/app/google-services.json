@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "354957584216",
+    "firebase_url": "https://voiceadmin.firebaseio.com",
+    "project_id": "voiceadmin",
+    "storage_bucket": "voiceadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354957584216:android:13939fb8b33a0682",
+        "android_client_info": {
+          "package_name": "voiceadmin.voiceprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354957584216-17no5a0580pmhheaf1vvs8cnl43jitab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxnH1NiXnKzkKFYjwA6ZeQNJZ9oFHfe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
